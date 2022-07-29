@@ -1,17 +1,19 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/R0X4R/Parshu"><img src=".github/static/logo.png" alt="Parshu logo"></a>
+  <a href="https://github.com/R0X4R/Parshu"><img src=".github/static/logo.png" width="50%" alt="Parshu logo"></a>
 </h1>
 
-<h4 align="center"><b>Filter URLs to save your time using regex</b></h4>
+<h4 align="center"><b>Filter URLs to save your time using regex</b></h4><br>
 
 <p align="center">
   <a href="https://github.com/R0X4R/Parshu/releases">
     <img src="https://img.shields.io/github/release/R0X4R/Parshu.svg?label=version">
   </a>
-  <a href="https://github.com/R0X4R/Parshu/releases">
-    <img src="https://img.shields.io/github/downloads/R0X4R/Parshu/total">
-  </a>
+  <a href="#"><img src="https://madewithlove.org.in/badge.svg"></a>
+<a href="https://twitter.com/R0X4R/"><img src="https://img.shields.io/badge/twitter-%40R0X4R-blue.svg"></a>
+<a href="https://github.com/R0X4R/Garud/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+<a href="https://github.com/R0X4R/Parshu/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+<a href="https://github.com/R0X4R?tab=followers"><img src="https://img.shields.io/badge/github-%40R0X4R-orange"></a>
   <a href="https://github.com/R0X4R/Parshu/issues?q=is%3Aissue+is%3Aclosed">
       <img src="https://img.shields.io/github/issues-closed-raw/R0X4R/Parshu?color=dark-green&label=issues%20fixed">
   </a>
