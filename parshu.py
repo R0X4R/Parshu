@@ -11,7 +11,7 @@ from urllib.parse import urlparse
 from sys import stdin, stdout, exit
 
 #@> PROCESSING COMMAND LINE ARGUMENTS
-parser = argparse.ArgumentParser(epilog="\tExample:\nwaybackurls sub.domain.tld | tool")
+parser = argparse.ArgumentParser(epilog="\tExample:\nwaybackurls sub.domain.tld | parshu")
 parser._optionals.title = "OPTIONS"
 
 #@> OPTIONS
